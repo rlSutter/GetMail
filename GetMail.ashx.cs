@@ -208,7 +208,7 @@ namespace GetMail
             }
             if (ConnS == "")
             {
-                ConnS = "server=HCIDBSQL\\HCIDB;uid=SIEBEL;pwd=SIEBEL;database=siebeldb";
+                ConnS = "server=";
             }
 
             // ============================================
@@ -748,3 +748,4 @@ namespace GetMail
         }
     }
 }
+
