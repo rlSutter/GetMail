@@ -28,10 +28,6 @@
 24. [Monitoring](#monitoring)
 25. [Logging](#logging)
 26. [Results](#results)
-27. [Programming](#programming)
-28. [Operational](#operational)
-29. [Support](#support)
-30. [License](#license)
 
 ## Overview
 
@@ -665,5 +661,6 @@ Finally, the JSON string provided to this service itself is logged to the file `
 ## Results
 
 When this service is executed, it creates activity records in the database. There is no other results provided other than the log file.
+
 
 
